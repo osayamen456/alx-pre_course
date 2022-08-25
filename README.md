@@ -1,1 +1,1 @@
-My first readme
+Github is cool to work with.
