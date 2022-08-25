@@ -1,8 +1,3 @@
-git clone
-git config
-git add
-git commit
+git add .
+git commit -m "How to be up to date in git"
 git push
-git checkout
-git branch
-git pull
